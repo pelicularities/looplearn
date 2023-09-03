@@ -1,0 +1,1 @@
+Notes in this folder are based on Adrian Cantrill's [Tech Fundamentals](https://learn.cantrill.io/courses/enrolled/2022818) course

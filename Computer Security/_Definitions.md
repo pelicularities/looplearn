@@ -1,0 +1,1 @@
+Computer security studies how systems work in the presence of adversaries.
