@@ -61,6 +61,11 @@ Each frame consists of:
 - No longer needs to transmit on every port if it knows which port the destination is on
 - **Each port is a separate collision domain**
 
+#### Types of Layer 2 protocols
+- [Ethernet](https://en.wikipedia.org/wiki/Ethernet)
+- [IEEE 802.11 wireless LAN](https://en.wikipedia.org/wiki/IEEE_802.11)
+- [Point-to-Point Protocol (PPP)](https://en.wikipedia.org/wiki/Point-to-Point_Protocol)
+
 #### Mental model for Layer 2
 - **Device addressing is possible:** can send data to a specific device over Layer 2
 	- Corollary: **unicast** is possible
